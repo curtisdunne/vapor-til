@@ -31,7 +31,7 @@ import Vapor
 import XCTest
 import FluentPostgreSQL
 
-final class AcronymTests: XCTestCase {
+final class AcronymTests : XCTestCase {
 
   let acronymsURI = "/api/acronyms/"
   let acronymShort = "OMG"

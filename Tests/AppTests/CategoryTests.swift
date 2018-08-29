@@ -31,7 +31,7 @@ import Vapor
 import XCTest
 import FluentPostgreSQL
 
-final class CategoryTests: XCTestCase {
+final class CategoryTests : XCTestCase {
 
   let categoriesURI = "/api/categories/"
   let categoryName = "Teenager"
